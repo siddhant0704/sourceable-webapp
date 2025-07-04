@@ -1,0 +1,27 @@
+node_modules/
+.next/
+.DS_Store
+.env*
+*.log
+yarn.lock
+npm-debug.log
+coverage/
+.idea/
+.vscode/
+*.local
+*.swp
+
+# Ignore Mac system files
+Icon?
+
+# Ignore build output
+out/
+
+# Ignore test coverage
+coverage/
+
+# Ignore local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

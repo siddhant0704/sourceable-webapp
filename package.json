@@ -1,0 +1,32 @@
+{
+  "name": "sourceable-web",
+  "version": "1.0.0",
+  "description": "A simple tool for everyday people to verify what they’re seeing, doing, and experiencing — in real time.",
+  "main": "pages/index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [
+    "nextjs",
+    "web",
+    "application"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "<repository-url>"
+  },
+  "homepage": "https://sourceable.vercel.app",
+  "bugs": {
+    "url": "<repository-url>/issues"
+  }
+}
